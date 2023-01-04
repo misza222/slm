@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "slm"
+  site-url: "https://misza222.github.io/slm"
+  description: "Small language model"
+  repo-branch: main
+  repo-url: "https://github.com/misza222/slm"
